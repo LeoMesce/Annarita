@@ -10,5 +10,5 @@ public class ServiceRegistrationAndDiscoveryApplication {
 		SpringApplication.run(ServiceRegistrationAndDiscoveryApplication.class, args);
 	}
 
-	//vai
+	//vaiuu
 }
